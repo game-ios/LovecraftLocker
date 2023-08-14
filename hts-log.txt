@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 20 Jul 2023 14:59:32 at https://touchitrikka.netlify.app/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://touchitrikka.netlify.app/ -O1 "C:\Users\LENOVO\Desktop\New folder (3)\New folder (4)\d" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:59:38	Error: 	"Not Found" (404) at link https://touchitrikka.netlify.app/favicon.ico (from https://touchitrikka.netlify.app/)
+14:59:38	Error: 	"Not Found" (404) at link https://touchitrikka.netlify.app/assets/js/lazy.js?v=2 (from https://touchitrikka.netlify.app/)
+14:59:38	Error: 	"Not Found" (404) at link https://me-qr.com/img/arrow-left.png (from https://me-qr.com/assets/css/material-kit.min.css?v=1)
+14:59:38	Error: 	"Not Found" (404) at link https://me-qr.com/img/arrow-right.png (from https://me-qr.com/assets/css/material-kit.min.css?v=1)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 seconds : 11 links scanned, 6 files written (506322 bytes overall) [172604 bytes received at 28767 bytes/sec], 413500 bytes transferred using HTTP compression in 8 files, ratio 15%, 1.3 requests per connection
+(4 errors, 0 warnings, 0 messages)
